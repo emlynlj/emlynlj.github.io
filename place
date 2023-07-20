@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tech Guide</title>
+
+    <!-- Icon-->
+    <link rel="icon" type="image/x-icon" href="shuttle.png">
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="style.css">
+    
+
+</head>
+<body>
+    <a href="https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo">Step 1 - Install TamperMonkey (chromium browsers)</a>
+    <a href="https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag">Step 1.5 - If you are using Firefox use violentmonkey</a>
+    
+    <a href="https://github.com/emlynlj/TeamSpaceTemplateManager/raw/main/dist/templateManager.user.js">Step 2 - Install the script to Tamper/ViolentMonkey (click the install button!)</a>
+    
+
+    
+</body>
+</html>
